@@ -1,0 +1,12 @@
+Route : /auth
+POST: /auth/login
+POST: /auth/register
+POST: /auth/logout
+
+Route: /auth/doctor
+POST: /auth/doctor/login
+POST: /auth/doctor/register
+POST: /auth/doctor/logout
+
+Rotte: /doctor
+GET: /doctor/all
